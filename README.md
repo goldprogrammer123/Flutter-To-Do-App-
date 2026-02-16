@@ -53,7 +53,7 @@ lib/
 
 ---
 
-## 🚀 How to Run the App
+## How to Run the App
 
 ### Prerequisites
 
@@ -68,7 +68,7 @@ lib/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/flutter-todo-app.git
+git clone https://github.com/goldprogrammer123/Flutter-To-Do-App-.git
 cd flutter-todo-app
 ```
 
@@ -90,7 +90,7 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Screen | Preview |
 |--------|---------|
@@ -101,7 +101,7 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 | Package | Version | Purpose |
 |---------|---------|---------|
@@ -114,7 +114,7 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ---
 
-## 📋 Assignment Checklist
+## Assignment Checklist
 
 - [x] Add new tasks with a title
 - [x] View tasks in a scrollable list
@@ -129,7 +129,7 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ---
 
-## 📧 Submission
+## Submission
 
 **Subject:** Flutter To-Do App Assignment Submission – [Group Name]
 
@@ -137,4 +137,3 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ---
 
-*IS 325: Mobile Application Development — Group Assignment 2026*
