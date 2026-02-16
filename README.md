@@ -5,7 +5,7 @@ A beautiful, fully-featured To-Do List mobile application built with Flutter for
 
 ---
 
-## 👥 Group Members
+## 👥 Group Members.
 
 | # | Full Name | Student ID | Role |
 |---|-----------|------------|------|
