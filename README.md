@@ -94,10 +94,10 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 | Screen | Preview |
 |--------|---------|
-| Main task list | ![Main Screen](screenshots/main_screen.png) |
-| Adding a task | ![Add Task](screenshots/add_task.png) |
-| Completing a task | ![Complete Task](screenshots/complete_task.png) |
-| Deleting a task | ![Delete Task](screenshots/delete_task.png) |
+| Main task list | ![Main Screen](c:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 200513.png) |
+| Adding a task | ![Add Task](c:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 200548.png) |
+| Completing a task | ![Complete Task](c:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 200705.png) |
+| Deleting a task | ![Delete Task](c:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 200805.png) |
 
 ---
 
