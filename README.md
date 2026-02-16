@@ -137,3 +137,4 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ---
 
+.
