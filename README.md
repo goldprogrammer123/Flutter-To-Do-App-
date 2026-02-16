@@ -46,12 +46,11 @@ lib/
 ├── screens/
 │   └── home_screen.dart          # Main screen with tab navigation
 ├── widgets/
-│   ├── task_card.dart            # Individual task card with swipe actions
-│   ├── add_task_sheet.dart       # Bottom sheet for adding/editing tasks
-│   ├── task_summary_bar.dart     # Stats header widget
-│   └── empty_state.dart          # Empty list placeholder
-└── theme/
-    └── app_theme.dart            # App-wide theme & colour palette
+│   ├── task_tile.dart            # Individual task card with swipe actions
+│   ├── add_task_dialog.dart       # Bottom sheet for adding/editing tasks
+│   ├── stats_bar.dart     # Stats header widget
+│   └── empty_state_Widget.dart          # Empty list placeholder
+
 ```
 
 ---
