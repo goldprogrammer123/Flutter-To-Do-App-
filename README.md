@@ -92,13 +92,13 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ## 📸 Screenshots
  Main task list
-  c:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 200513.png
- Adding a task: Feature on the web
- c:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 200548.png
+  ![Main task list](screenshots/main_screen.png)
+ Adding a task: Feature on the webc:
+ ![addind task](screenshots/add_task.png)
  Completing a task 
- c:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 200705.png
+ ![complete task](screenshots/complete_task.png)
  Deleting a task 
- c:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 200805.png
+ ![delete task](screenshots/delete_task.png)
 
 
 ## 📦 Dependencies
