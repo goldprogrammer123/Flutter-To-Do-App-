@@ -1,35 +1,45 @@
 
-# 📝 Flutter To-Do List App
+# Flutter To-Do List App
 
-A beautiful, fully-featured To-Do List mobile application built with Flutter for **IS 325: Mobile Application Development**.
 
 ---
 
-## 👥 Group Members
+## Group Members
+## 👥 Group Members.
 
 | # | Full Name | Student ID | Role |
 |---|-----------|------------|------|
-| 1 | [Member 1 Name] | [Student ID] | Lead Developer |
-| 2 | [Member 2 Name] | [Student ID] | UI/UX Design |
-| 3 | [Member 3 Name] | [Student ID] | Testing & Documentation |
-| 4 | [Member 4 Name] | [Student ID] | State Management |
+| 1 | [Minael Kilonzo]     | [32005/T.2023] | Lead Developer   |
+| 2 | [Efrem Mchau]        | [30269/T.2023] | UX Design        |
+| 3 | [Golden Haule]       | [31837/T.2023] | Testing          |
+| 4 | [NIcolas Mshana]     | [32047/T.2023] | State Management |
+| 5 | [Nathanaeli Thabiti] | [31407/T.2023] | UI Design        |
+| 6 | [Abdallah Athumani]  | [31601/T.2023] | Documentation    |
+| 7 | [Mustapha Bakari]    | [30609/T.2023] | View task        |
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ **Add tasks** — Tap the `+` FAB or "Add First Task" button to create a new task with a title
-- 📋 **View tasks** — Scrollable task list with All / Pending / Done filter tabs
-- ☑️ **Complete tasks** — Tap a task or swipe right to mark it complete (with animated strikethrough)
-- 🗑️ **Delete tasks** — Swipe left and tap Delete, or long-press to edit/delete
-- 💾 **Local persistence** — Tasks are saved using `shared_preferences` and survive app restarts
-- ✏️ **Edit tasks** — Long-press any task or swipe left → Edit to update the title
-- 📊 **Progress summary** — Header bar showing total / done / pending counts with a progress bar
-- 🧹 **Clear completed** — Bulk-remove all completed tasks from the overflow menu
+**Add tasks** — Tap the `+` FAB or "Add First Task" button to create a new task with a title
 
----
+**View tasks** — Scrollable task list with All / Pending / Done filter tabs
 
-## 🗂️ Project Structure
+**Complete tasks** — Tap a task or swipe right to mark it complete (with animated strikethrough)
+
+**Delete tasks** — Swipe left and tap Delete, or long-press to edit/delete
+
+**Local persistence** — Tasks are saved using `shared_preferences` and survive app restarts
+
+**Edit tasks** — Long-press any task or swipe left → Edit to update the title
+
+**Progress summary** — Header bar showing total / done / pending counts with a progress bar
+
+**Clear completed** — Bulk-remove all completed tasks from the overflow menu
+
+---.
+
+##  Project Structure
 
 ```
 lib/
@@ -43,17 +53,16 @@ lib/
 ├── screens/
 │   └── home_screen.dart          # Main screen with tab navigation
 ├── widgets/
-│   ├── task_card.dart            # Individual task card with swipe actions
-│   ├── add_task_sheet.dart       # Bottom sheet for adding/editing tasks
-│   ├── task_summary_bar.dart     # Stats header widget
-│   └── empty_state.dart          # Empty list placeholder
-└── theme/
-    └── app_theme.dart            # App-wide theme & colour palette
+│   ├── task_tile.dart            # Individual task card with swipe actions
+│   ├── add_task_dialog.dart       # Bottom sheet for adding/editing tasks
+│   ├── stats_bar.dart     # Stats header widget
+│   └── empty_state_Widget.dart          # Empty list placeholder
+
 ```
 
 ---
 
-## 🚀 How to Run the App
+## How to Run the App
 
 ### Prerequisites
 
@@ -68,7 +77,7 @@ lib/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/<your-username>/flutter-todo-app.git
+git clone https://github.com/goldprogrammer123/Flutter-To-Do-App-.git
 cd flutter-todo-app
 ```
 
@@ -98,10 +107,11 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
  Completing a task 
  ![complete task](screenshots/complete_task.png)
  Deleting a task 
- ![delete task](screenshots/delete_task.png)
+ c:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 200805.png
+## Screenshots
 
 
-## 📦 Dependencies
+## Dependencies
 
 | Package | Version | Purpose |
 |---------|---------|---------|
@@ -114,7 +124,7 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 
 ---
 
-## 📋 Assignment Checklist
+## Assignment Checklist
 
 - [x] Add new tasks with a title
 - [x] View tasks in a scrollable list
@@ -127,14 +137,3 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 - [x] Run instructions
 - [x] Screenshots demonstrating key features
 
----
-
-## 📧 Submission
-
-**Subject:** Flutter To-Do App Assignment Submission – [Group Name]
-
-**Instructor:** [Instructor Name]
-
----
-
-*IS 325: Mobile Application Development — Group Assignment 2026*
