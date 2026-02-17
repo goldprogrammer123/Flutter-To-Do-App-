@@ -77,7 +77,7 @@ lib/
 **1. Clone the repository**
 ```bash
 git clone https://github.com/goldprogrammer123/Flutter-To-Do-App-.git
-cd flutter-todo-app
+cd Flutter-To-Do-App-
 ```
 
 **2. Install dependencies**
