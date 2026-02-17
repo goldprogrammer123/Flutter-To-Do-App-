@@ -19,20 +19,27 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- ✅ **Add tasks** — Tap the `+` FAB or "Add First Task" button to create a new task with a title
-- 📋 **View tasks** — Scrollable task list with All / Pending / Done filter tabs
-- ☑️ **Complete tasks** — Tap a task or swipe right to mark it complete (with animated strikethrough)
-- 🗑️ **Delete tasks** — Swipe left and tap Delete, or long-press to edit/delete
-- 💾 **Local persistence** — Tasks are saved using `shared_preferences` and survive app restarts
-- ✏️ **Edit tasks** — Long-press any task or swipe left → Edit to update the title
-- 📊 **Progress summary** — Header bar showing total / done / pending counts with a progress bar
-- 🧹 **Clear completed** — Bulk-remove all completed tasks from the overflow menu
+**Add tasks** — Tap the `+` FAB or "Add First Task" button to create a new task with a title
 
----
+**View tasks** — Scrollable task list with All / Pending / Done filter tabs
 
-## 🗂️ Project Structure
+**Complete tasks** — Tap a task or swipe right to mark it complete (with animated strikethrough)
+
+**Delete tasks** — Swipe left and tap Delete, or long-press to edit/delete
+
+**Local persistence** — Tasks are saved using `shared_preferences` and survive app restarts
+
+**Edit tasks** — Long-press any task or swipe left → Edit to update the title
+
+**Progress summary** — Header bar showing total / done / pending counts with a progress bar
+
+**Clear completed** — Bulk-remove all completed tasks from the overflow menu
+
+---.
+
+##  Project Structure
 
 ```
 lib/
@@ -130,14 +137,3 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
 - [x] Run instructions
 - [x] Screenshots demonstrating key features
 
----
-
-## Submission
-
-**Subject:** Flutter To-Do App Assignment Submission – [Group Name]
-
-**Instructor:** [Instructor Name]
-
----
-
-.
