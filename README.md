@@ -5,7 +5,7 @@
 ---
 
 ## Group Members
-## 👥 Group Members.
+##  Group Members.
 
 | # | Full Name | Student ID | Role |
 |---|-----------|------------|------|
