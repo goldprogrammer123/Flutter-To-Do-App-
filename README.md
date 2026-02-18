@@ -106,7 +106,10 @@ The APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
  Completing a task 
  ![complete task](screenshots/complete_task%201.png)
  Deleting a task 
- ![delete task](screenshots/delete_task.png)
+ ![delete task](screenshots/delete_task%202.png)
+ Deleting a task 2
+ ![delete task](screenshots/delete_task%201.png)
+
 
 
 ## Dependencies
